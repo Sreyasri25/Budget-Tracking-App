@@ -1,12 +1,25 @@
-# Cash Net App
-This is a budget tracker app made to improve my Javascript skills. Enter your expenses and income - it will store it and keep track of your budget for the month.
+# 💰 Budget Tracking App
 
-## Demo
+A simple and interactive **Budget Tracking Application** built with **HTML**, **CSS**, and **JavaScript** to help users manage their income and expenses. This app allows users to input transactions, track balances, and visualize their spending patterns in a user-friendly interface.
 
-![Alt Text](https://github.com/ac-asks/js-cash-net/blob/master/js-cash-net.gif)
+## 🖼️ Demo
 
-## Contribution
+![App Demo](js-cash-net.gif)
 
-Your contribution that make this app better is appreciated.
+## ✨ Features
+
+- ✅ Add income and expense transactions
+- ✅ Display current balance, total income, and total expenses
+- ✅ Responsive and clean UI
+- ✅ Data stored temporarily in memory (no backend required)
+
+## 🛠️ Built With
+
+- **HTML** - Page structure
+- **CSS** - Styling and responsive layout
+- **JavaScript** - Core logic and interactivity
+
+
+
 
 
